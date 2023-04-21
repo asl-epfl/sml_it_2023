@@ -1,6 +1,9 @@
+## Release v1.0.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7853193.svg)](https://doi.org/10.5281/zenodo.7853193)
+
+
 This code can be used to generate simulations similar to Figs. 3-11 in the following paper:
 
-Virginia Bordignon, Stefan Vlaski, Vincenzo Matta, and Ali H. Sayed,  "Learning from Heterogeneous Data Based on Social Interactions over Graphs,'' in IEEE Transactions on Information Theory, 2023.
+Virginia Bordignon, Stefan Vlaski, Vincenzo Matta, and Ali H. Sayed,  "Learning from Heterogeneous Data Based on Social Interactions over Graphs,'' in IEEE Transactions on Information Theory, 2023. [![DOI](https://zenodo.org/badge/DOI/10.1109/TIT.2022.3227587.svg)](https://doi.org/10.1109/TIT.2022.3232368)
 
 Figs. 3 to 7 are generated executing file 'figures_3_7.py'.
 
